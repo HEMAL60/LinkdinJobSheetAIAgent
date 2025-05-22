@@ -27,10 +27,10 @@ Welcome to my **first hands-on project using [n8n](https://n8n.io/)** — a no-c
 ## 🔁 Workflow Architecture
 
 ### 🖼 Main Flow
-![n8n Workflow](./assets/n8n_workflow.png)
+![n8n Workflow](https://github.com/HEMAL60/LinkdinJobSheetAIAgent/blob/main/n8n%20workflow.png)
 
 ### 🧠 AI Extraction Subflow
-![LLM Extraction](./assets/n8n_workflow_2.png)
+![LLM Extraction](.https://github.com/HEMAL60/LinkdinJobSheetAIAgent/blob/main/n8n%20workflow%202.png)
 
 ---
 
